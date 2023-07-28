@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayesh Khatri</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshkhatrirl&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshkhatrirl" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I write on [https://www.quora.com/profile/Jayesh-Khatri-55](https://www.quora.com/profile/Jayesh-Khatri-55)
 
-- 💬 Ask me about **Frontend things like any basics, frameworks and libraries such as bootstrap and reactjs.**
+- 💬 Ask me about **Full Stack - MERN things like any basics, frameworks and libraries such as Node.js, React.js, Tailwind CSS.**
 
 - 📫 How to reach me **khatrijayeshrl@gmail.com**
 
