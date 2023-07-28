@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **technologies to be a full stack developer.**
+- 🌱 I’m currently learningn and working on **Machine Learning.**
 
 - 📝 I write on [https://www.quora.com/profile/Jayesh-Khatri-55](https://www.quora.com/profile/Jayesh-Khatri-55)
 
-- 💬 Ask me about **Full Stack - MERN things like any basics, frameworks and libraries such as Node.js, React.js, Tailwind CSS.**
+- 💬 Ask me about **Full Stack - MERN things like any basics, frameworks and libraries along with about Tailwind CSS, JavaScript, etc.**
 
 - 📫 How to reach me **khatrijayeshrl@gmail.com**
 
