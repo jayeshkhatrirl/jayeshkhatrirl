@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learningn and working on **Machine Learning.**
+- 🌱 I’m currently learning and working on **Machine Learning.**
 
 - 📝 I write on [https://www.quora.com/profile/Jayesh-Khatri-55](https://www.quora.com/profile/Jayesh-Khatri-55)
 
